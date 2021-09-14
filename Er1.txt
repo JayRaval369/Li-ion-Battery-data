@@ -1,0 +1,41 @@
+These are errors
+After cycle number 369, There are 9 cycles missing upto cycle 378
+After cycle number 378, There are 2 cycles missing upto cycle 380
+After cycle number 380, There are 9 cycles missing upto cycle 371
+After cycle number 371, There are 3 cycles missing upto cycle 374
+After cycle number 374, There are 2 cycles missing upto cycle 376
+After cycle number 376, There are 3 cycles missing upto cycle 379
+After cycle number 379, There are 4 cycles missing upto cycle 375
+After cycle number 375, There are 5 cycles missing upto cycle 370
+After cycle number 370, There are 2 cycles missing upto cycle 372
+After cycle number 372, There are 5 cycles missing upto cycle 377
+After cycle number 377, There are 4 cycles missing upto cycle 373
+After cycle number 373, There are 12 cycles missing upto cycle 385
+After cycle number 385, There are 2 cycles missing upto cycle 383
+After cycle number 383, There are 14 cycles missing upto cycle 369
+After cycle number 369, There are 12 cycles missing upto cycle 381
+After cycle number 381, There are 3 cycles missing upto cycle 384
+After cycle number 384, There are 2 cycles missing upto cycle 382
+After cycle number 382, There are 4 cycles missing upto cycle 386
+After cycle number 794, There are 6 cycles missing upto cycle 800
+After cycle number 890, There are 8 cycles missing upto cycle 898
+At row 16771 from 2013-05-24 19:13:00 to 2014-05-19 13:33:00, there is a time gap of : 359 days, 18:20:00 
+At row 29574 from 2014-05-26 07:22:00 to 2014-08-11 11:54:00, there is a time gap of : 77 days, 4:32:00 
+At row 155498 from 2014-08-30 04:13:00 to 2014-09-02 18:05:00, there is a time gap of : 3 days, 13:52:00 
+At row 210219 from 2014-09-20 15:25:00 to 2014-09-22 11:05:00, there is a time gap of : 1 day, 19:40:00 
+At row 291555 from 2014-10-18 22:53:00 to 2014-10-20 11:07:00, there is a time gap of : 1 day, 12:14:00 
+At row 319225 from 2014-10-28 23:09:00 to 2014-10-30 01:04:00, there is a time gap of : 1 day, 1:55:00 
+At row 319227 from 2014-10-30 21:36:00 to 2014-10-29 05:16:00, there is a time gap of : 1 day, 16:20:00 
+At row 319231 from 2014-10-30 03:53:00 to 2014-10-29 16:35:00, there is a time gap of : 11:18:00 
+At row 319236 from 2014-10-29 10:56:00 to 2014-10-31 11:44:00, there is a time gap of : 2 days, 0:48:00 
+At row 319238 from 2014-10-31 06:05:00 to 2014-10-28 23:36:00, there is a time gap of : 2 days, 6:29:00 
+At row 319239 from 2014-10-28 23:36:00 to 2014-10-31 00:26:00, there is a time gap of : 2 days, 0:50:00 
+At row 365574 from 2014-11-17 18:02:00 to 2014-11-20 17:45:00, there is a time gap of : 2 days, 23:43:00 
+At row 428971 from 2014-12-13 20:17:00 to 2014-12-15 10:13:00, there is a time gap of : 1 day, 13:56:00 
+At row 474038 from 2014-12-31 20:44:00 to 2015-01-02 11:18:00, there is a time gap of : 1 day, 14:34:00 
+At row 474138 from 2015-01-02 12:12:00 to 2015-01-13 18:46:00, there is a time gap of : 11 days, 6:34:00 
+At row 516415 from 2015-01-28 20:41:00 to 2015-01-31 08:39:00, there is a time gap of : 2 days, 11:58:00 
+At row 550942 from 2015-02-11 13:50:00 to 2015-02-13 11:45:00, there is a time gap of : 1 day, 21:55:00 
+At row 557661 from 2015-02-15 16:39:00 to 2015-02-17 11:41:00, there is a time gap of : 1 day, 19:02:00 
+At row 597440 from 2015-03-04 01:03:00 to 2015-03-06 10:57:00, there is a time gap of : 2 days, 9:54:00 
+At row 636810 from 2015-03-20 23:33:00 to 2015-03-23 14:52:00, there is a time gap of : 2 days, 15:19:00 
